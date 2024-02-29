@@ -3,8 +3,14 @@
   "WorkspaceRootPath": "D:\\Documentos\\Repositorios GitHub\\GestorStockFarmacia\\Farmacia\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C4347610-BE94-44CE-8846-DFFE84FC5717}|..\\Dominio\\Dominio.csproj|d:\\documentos\\repositorios github\\gestorstockfarmacia\\dominio\\detalleventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3401DF60-78BC-46D2-85E2-E0387977B003}|Farmacia.csproj|d:\\documentos\\repositorios github\\gestorstockfarmacia\\farmacia\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{3401DF60-78BC-46D2-85E2-E0387977B003}|Farmacia.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4347610-BE94-44CE-8846-DFFE84FC5717}|..\\Dominio\\Dominio.csproj|d:\\documentos\\repositorios github\\gestorstockfarmacia\\dominio\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -43,6 +49,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "DetalleVenta.cs",
+              "DocumentMoniker": "D:\\Documentos\\Repositorios GitHub\\GestorStockFarmacia\\Dominio\\DetalleVenta.cs",
+              "RelativeDocumentMoniker": "..\\Dominio\\DetalleVenta.cs",
+              "ToolTip": "D:\\Documentos\\Repositorios GitHub\\GestorStockFarmacia\\Dominio\\DetalleVenta.cs",
+              "RelativeToolTip": "..\\Dominio\\DetalleVenta.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T18:01:08.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Venta.cs",
+              "DocumentMoniker": "D:\\Documentos\\Repositorios GitHub\\GestorStockFarmacia\\Dominio\\Venta.cs",
+              "RelativeDocumentMoniker": "..\\Dominio\\Venta.cs",
+              "ToolTip": "D:\\Documentos\\Repositorios GitHub\\GestorStockFarmacia\\Dominio\\Venta.cs",
+              "RelativeToolTip": "..\\Dominio\\Venta.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T17:04:55.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "D:\\Documentos\\Repositorios GitHub\\GestorStockFarmacia\\Farmacia\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
