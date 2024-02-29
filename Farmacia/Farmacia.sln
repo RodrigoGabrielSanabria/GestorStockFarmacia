@@ -5,6 +5,10 @@ VisualStudioVersion = 17.9.34622.214
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Farmacia", "Farmacia.csproj", "{3401DF60-78BC-46D2-85E2-E0387977B003}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dominio", "..\Dominio\Dominio.csproj", "{C4347610-BE94-44CE-8846-DFFE84FC5717}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Conexion_DB", "..\Conexion_DB\Conexion_DB.csproj", "{ACF5E8BC-00E8-4EC5-B25F-D2AC1C4AA0BE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{3401DF60-78BC-46D2-85E2-E0387977B003}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3401DF60-78BC-46D2-85E2-E0387977B003}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3401DF60-78BC-46D2-85E2-E0387977B003}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4347610-BE94-44CE-8846-DFFE84FC5717}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4347610-BE94-44CE-8846-DFFE84FC5717}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4347610-BE94-44CE-8846-DFFE84FC5717}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4347610-BE94-44CE-8846-DFFE84FC5717}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACF5E8BC-00E8-4EC5-B25F-D2AC1C4AA0BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACF5E8BC-00E8-4EC5-B25F-D2AC1C4AA0BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACF5E8BC-00E8-4EC5-B25F-D2AC1C4AA0BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACF5E8BC-00E8-4EC5-B25F-D2AC1C4AA0BE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
