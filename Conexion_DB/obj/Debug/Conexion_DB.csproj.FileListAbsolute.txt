@@ -1,0 +1,6 @@
+D:\Documentos\Repositorios GitHub\GestorStockFarmacia\Conexion_DB\bin\Debug\Conexion_DB.dll
+D:\Documentos\Repositorios GitHub\GestorStockFarmacia\Conexion_DB\bin\Debug\Conexion_DB.pdb
+D:\Documentos\Repositorios GitHub\GestorStockFarmacia\Conexion_DB\obj\Debug\Conexion_DB.csproj.AssemblyReference.cache
+D:\Documentos\Repositorios GitHub\GestorStockFarmacia\Conexion_DB\obj\Debug\Conexion_DB.csproj.CoreCompileInputs.cache
+D:\Documentos\Repositorios GitHub\GestorStockFarmacia\Conexion_DB\obj\Debug\Conexion_DB.dll
+D:\Documentos\Repositorios GitHub\GestorStockFarmacia\Conexion_DB\obj\Debug\Conexion_DB.pdb
