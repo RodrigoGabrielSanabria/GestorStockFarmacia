@@ -7,7 +7,10 @@
       "RelativeMoniker": "D:0:0:{3401DF60-78BC-46D2-85E2-E0387977B003}|Farmacia.csproj|solutionrelative:main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3401DF60-78BC-46D2-85E2-E0387977B003}|Farmacia.csproj|d:\\documentos\\repositorios github\\gestorstockfarmacia\\farmacia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ACF5E8BC-00E8-4EC5-B25F-D2AC1C4AA0BE}|..\\Conexion_DB\\Conexion_DB.csproj|d:\\documentos\\repositorios github\\gestorstockfarmacia\\conexion_db\\medicamentos_db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3401DF60-78BC-46D2-85E2-E0387977B003}|Farmacia.csproj|D:\\Documentos\\Repositorios GitHub\\GestorStockFarmacia\\Farmacia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3401DF60-78BC-46D2-85E2-E0387977B003}|Farmacia.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -18,7 +21,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -47,6 +50,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Medicamentos_DB.cs",
+              "DocumentMoniker": "D:\\Documentos\\Repositorios GitHub\\GestorStockFarmacia\\Conexion_DB\\Medicamentos_DB.cs",
+              "RelativeDocumentMoniker": "..\\Conexion_DB\\Medicamentos_DB.cs",
+              "ToolTip": "D:\\Documentos\\Repositorios GitHub\\GestorStockFarmacia\\Conexion_DB\\Medicamentos_DB.cs",
+              "RelativeToolTip": "..\\Conexion_DB\\Medicamentos_DB.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAEwDEAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T17:06:32.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Documentos\\Repositorios GitHub\\GestorStockFarmacia\\Farmacia\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -54,8 +70,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAAAgAAAAAAAAAAAAxwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-04T12:15:19.037Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-04T12:15:19.037Z"
             },
             {
               "$type": "Document",
