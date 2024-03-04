@@ -1,0 +1,81 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Data.SqlClient;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Conexion_DB
+{
+    public class AccesoDatos
+    {
+        private SqlConnection conexion;
+
+        private SqlCommand comando;
+
+        private SqlDataReader lector;
+        public SqlDataReader Lector
+        {
+            get { return lector; }
+        }   
+
+        //Busca en la base de datos
+        public void setearConsulta (string consulta) 
+        {
+            comando.CommandType = System.Data.CommandType.Text; 
+
+            comando.CommandText = consulta;
+        }
+
+        //Lectura de contenido
+
+        public void ejecutarLectura()
+        {
+            comando.Connection = conexion;
+
+            try
+            {
+                conexion.Open();
+                
+                lector = comando.ExecuteReader();   
+            }
+            catch (Exception ex)
+            {
+
+                throw ex;
+            }
+        }
+
+        public void setearParametro(string nombre, object valor)
+        {
+            comando.Parameters.AddWithValue(nombre, valor);
+        }
+
+        public void cerrarConexion()
+        {
+            if (lector != null)
+            { 
+                lector.Close();
+                conexion.Close();
+            }
+        }
+
+        //metodo para ejecutar el añadido de un nuevo medicamento
+        public void ejecurarAccion()
+        {   
+            comando.Connection= conexion;
+
+            try
+            {
+                conexion.Open();
+
+                comando.ExecuteNonQuery();
+            }
+            catch (Exception ex)
+            {
+
+                throw ex;
+            }
+        }
+    }   
+}
