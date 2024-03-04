@@ -1,0 +1,15 @@
+D:\Documentos\Repositorios GitHub\GestorStockFarmacia\Farmacia\bin\Debug\Farmacia.exe.config
+D:\Documentos\Repositorios GitHub\GestorStockFarmacia\Farmacia\bin\Debug\Farmacia.exe
+D:\Documentos\Repositorios GitHub\GestorStockFarmacia\Farmacia\bin\Debug\Farmacia.pdb
+D:\Documentos\Repositorios GitHub\GestorStockFarmacia\Farmacia\bin\Debug\Conexion_DB.dll
+D:\Documentos\Repositorios GitHub\GestorStockFarmacia\Farmacia\bin\Debug\Dominio.dll
+D:\Documentos\Repositorios GitHub\GestorStockFarmacia\Farmacia\bin\Debug\Conexion_DB.pdb
+D:\Documentos\Repositorios GitHub\GestorStockFarmacia\Farmacia\bin\Debug\Dominio.pdb
+D:\Documentos\Repositorios GitHub\GestorStockFarmacia\Farmacia\obj\Debug\Farmacia.csproj.AssemblyReference.cache
+D:\Documentos\Repositorios GitHub\GestorStockFarmacia\Farmacia\obj\Debug\Farmacia.Properties.Resources.resources
+D:\Documentos\Repositorios GitHub\GestorStockFarmacia\Farmacia\obj\Debug\Farmacia.csproj.GenerateResource.cache
+D:\Documentos\Repositorios GitHub\GestorStockFarmacia\Farmacia\obj\Debug\Farmacia.csproj.CoreCompileInputs.cache
+D:\Documentos\Repositorios GitHub\GestorStockFarmacia\Farmacia\obj\Debug\Farmacia.csproj.Up2Date
+D:\Documentos\Repositorios GitHub\GestorStockFarmacia\Farmacia\obj\Debug\Farmacia.exe
+D:\Documentos\Repositorios GitHub\GestorStockFarmacia\Farmacia\obj\Debug\Farmacia.pdb
+D:\Documentos\Repositorios GitHub\GestorStockFarmacia\Farmacia\obj\Debug\Farmacia.FormMedicamentos.resources
